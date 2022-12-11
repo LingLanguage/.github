@@ -1,14 +1,13 @@
 # LingLang 玲珑语言
-## 语言简介
-这是一门静态编译型语言, 无VM.  
-主要特点: 1. 接口访问权限可控; 2. 包管理便捷  
-后缀: .ling / .linglib / .lingmain  
-Logo: 是一颗杨桃.  
+- 这是一门静态编译型语言, 无VM.  
+- 主要特点: 1. 接口访问权限可控; 2. 包管理便捷  
+- 后缀: .ling / .linglib / .lingmain  
 
 ## 语言作者
 杰克有茶: 游戏创作者, 擅长C#  
 
 ## Logo 作者
+(Logo 是一颗杨桃)  
 +-: https://okjk.co/6HRkeu  
 
 ## 作者碎碎念
